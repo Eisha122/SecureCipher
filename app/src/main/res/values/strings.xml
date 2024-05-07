@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureCipher</string>
+    <drawable name="button_bg" />
+</resources>
